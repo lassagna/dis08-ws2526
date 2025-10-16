@@ -1,4 +1,3 @@
-```markdown
 # Markdown Features Overview
 
 ## Basic Formatting
